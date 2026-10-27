@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+# Build directories
+build/
+cmake-build-*/
+
+# Local executables from compilation lab
+/tooling/compilation/main
+/tooling/compilation/multiply_demo
+/tooling/compilation/broken
