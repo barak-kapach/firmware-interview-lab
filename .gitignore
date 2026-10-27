@@ -63,3 +63,6 @@ cmake-build-*/
 /tooling/compilation/main
 /tooling/compilation/multiply_demo
 /tooling/compilation/broken
+
+# Generated assembly files in the compilation lab
+/tooling/compilation/*.s
